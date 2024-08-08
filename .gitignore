@@ -1,0 +1,5 @@
+.*.sw*
+Session.vim
+gcm.cache/
+*.o
+test_rt
